@@ -58,7 +58,7 @@ Running
 --------
 
 Be sure to deploy the `libsqlite3.so.0` C library wherever you run your app. If it is the same machine 
-as the build was done on you neede't worry. Your 'test' program/assembly needs to have been built 
+as the build was done on you needn't worry. Your 'test' program/assembly needs to have been built 
 with debugging enabled (you need the mdb files) else baboon won't know how to inspect the 
 running code.
 
